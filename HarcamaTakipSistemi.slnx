@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="HarcamaTakipSistemi.vcxproj" />
+  <Project Path="HarcamaTakipSistemi.vcxproj" Id="be9ebbd2-3784-42b4-9d73-99f7221c6808" />
 </Solution>
