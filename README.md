@@ -42,6 +42,19 @@ en düşük harcama bilgileri hesaplanabilmektedir.
 
 ---
 
+## 🧠 Öğrenilen Kazanımlar
+- Menü tabanlı konsol uygulaması tasarımı
+- Fonksiyonel programlama mantığı
+- Temel hata kontrolü
+
+## 🔮 Geliştirilebilir Özellikler
+- Grafik arayüz (Qt / WinForms)
+- Veritabanı entegrasyonu
+- Tarihe göre filtreleme
+- Aylık harcama raporu
+
+---
+
 ## Amaç
 
 Bu projenin amacı:
